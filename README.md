@@ -1,7 +1,5 @@
 # Evently | Event Management System 🎫
 
-![Evently Banner](assets/logos/EventlyLogo-removebg.png)
-
 **Evently** is a lightweight, secure, and real-time event management solution designed to streamline the entire event lifecycle—from public registration to onsite check-in. Built using **PHP** for the backend logic and **Google Firebase** for real-time database capabilities.
 
 ## 🚀 Key Features
@@ -33,7 +31,7 @@
 ## 🛠️ Technology Stack
 
 - **Frontend:** HTML5, CSS3, Bootstrap 5, jQuery
-- **Backend Logic:** PHP (v7.4+)
+- **Backend Logic:** PHP (v8.2+)
 - **Database:** Google Cloud Firestore (NoSQL)
 - **Authentication:** Firebase Auth
 - **Email Service:** PHPMailer (SMTP via Gmail)
@@ -45,5 +43,5 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/evently.git](https://github.com/yourusername/evently.git)
+git clone [https://github.com/farhan556-call/evently.git](https://github.com/farhan556-call/evently.git)
 cd evently
